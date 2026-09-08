@@ -1,6 +1,7 @@
 ## Hey there! 👋
 
-I'm **Nurjahan Jhorna**, a senior studying **Web & Information Systems @ NJIT**.
+I'm **Nurjahan Jhorna**, Web Dev & UX Designer with a Bachelor of Science in Web & Information Systems from the New
+Jersey Institute of Technolog.
 
 I’m passionate about crafting **intuitive, impactful, and human-centered digital experiences**.
 
